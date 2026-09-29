@@ -24,7 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="80dp"
             android:background="#D02222"
-            android:text="TextView"
+            android:text="Kalkulator"
             android:textColor="#D7DEE0"
             android:textSize="36sp" />
 
